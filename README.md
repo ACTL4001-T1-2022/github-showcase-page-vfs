@@ -1,10 +1,15 @@
-# Actuarial Theory and Practice A
+# 2022 SOA Research Case Study: Rarita FSA League Team
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+By Team VFS: Adam Moon, Cameron Ning, Ishaan Pandey, Tejaswi Netrapalli and Wesley Guan
+
 
 ---
 
-### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
+### Project Summary
+
+
+
+
 
 >Now it's time to build your own website to showcase your work.  
 >To create a website on GitHub Pages to showcase your work is very easy.
