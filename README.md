@@ -415,4 +415,19 @@ Attendance, GDP, and income are all financial variables that should be tracked o
 A successful football club will result in increased tourism-related GDP and overall economic growth. The football team's GDP growth rate and revenue should be evaluated to verify that it is performing its economic purpose, and if it isn't, the team's focus should be modified. This might include things like marketing and consulting with the FSA to conduct more home matches for a bigger matchday and merch revenue to help the economy.
 
 
+#### Key Assumptions
+* Revenue and Expenses 
+    * Used the average Rarita revenue and expenses growth rates as the expected growth in forecasting next 10 years. 
+    * Assumed growth would be constant and without fluctuations. 
 
+* Population 
+    * Use the average Rarita population growth during 2011-2020 as the expected constant growth in forecasting next 10 years. 
+
+* Nation Rank Modelling 
+    * The lower estimated nation rank is used for players who play in multiple positions resulting with different ranks for each position. 
+    * Assumed that a team’s estimated nation rank is equal to the average of the player’s estimated nation ranks. 
+
+* Assumptions for Simulation 
+    * Win and loss probability was based off a fitted normal distribution of estimation rank differences. 
+    * Probability of drawing calculated by taking 10% of loss probability. 
+    * Each team goes head-to-head once per league season. 
