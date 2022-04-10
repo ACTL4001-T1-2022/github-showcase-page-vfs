@@ -4,12 +4,8 @@ By Team VFS: Adam Moon, Cameron Ning, Ishaan Pandey, Tejaswi Netrapalli and Wesl
 
 ---
 
-
-<p align="center">
-  <img 
-    src="https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/footballgif.gif"
-  >
-
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/footballgif.gif)
+  
 ---
 
 ## Project Summary
@@ -139,10 +135,9 @@ Now that the competitive team has been chosen, our implementation plan for the R
 ## 1. Team implementation into FSA league
 
 The chosen Rarita Football Team (with substitute players) are shown below: 
-<p align="center">
-<img 
-   src="https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Players.JPG"
->
+
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Players.JPG)
+
 
 
 The overall team wage is 260,930,000∂ and it is entirely homegrown, avoiding borrowing expenses and currency risk. As a result, to ensure the team's success during the implementation process, general cohesion must be assessed to ensure a high level of team synergy. 
@@ -163,19 +158,13 @@ VFS Actuarial Consulting has summarised the main sources of revenue for Rarita�
 
 The projected revenue, expenses, profit, and salary values are shown in the graph below:
 
-<p align="center">
-<img 
-   src="https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Rarita%20Financials.png"
->
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Rarita%20Financials.png)
 
 Rarita must ensure that sufficient private cash is supplied to the team salary, as shown in the Total Profit and Total Salaries estimate. Sponsorships, loaning players, merchandise, and leveraging the exposure obtained through adopting this squad are all possible sources of funding. 
 
 ### Usage of Revenue
 
-<p align="center">
-<img 
-   src="https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Revenue%20Usage.png"
->
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Revenue%20Usage.png)
 
 Rarita should use their revenue wisely to ensure a bright future for football rookies entering the league, such as: 
 * Funding developmental programs and grants for successful rookies in local clubs  
@@ -260,10 +249,7 @@ investments as it becomes unprofitable.
 
 **Mitigation:** Reduce the risk by hedging against the Raritan currency. 
 
-<p align="center">
-<img 
-   src="https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Exchange%20Rate%20Sensitivity.png"
->
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Exchange%20Rate%20Sensitivity.png)
 
 The table above quantifies the effects of exchange rate changes on 10% of player loan revenue. If the value of
 Doubloons (∂) increases or decreases in the optimistic and pessimistic case, there is a potential gain or loss
@@ -287,10 +273,8 @@ lowering the risk of injury and poor performance. Monitor player performance and
 altering the squad as needed to maximise competitiveness.
 
 ### Sensitivity Impact of Player Injuries & Accidents
-<p align="center">
-<img 
-   src="https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Operational%20Risk%20Sensitivity.png"
->
+
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Operational%20Risk%20Sensitivity.png)
 
 The table above shows the extensive damage caused by injuries and accidents to the team’s ability to win
 championships. In the pessimistic case, the mean value drops by 6 championships, illustrating the effect on
@@ -331,10 +315,8 @@ Throughout the entire project several assumptions were made including the follow
 
 Therefore it is clear that through the project we identified the problem provided to us by Hammessi Bayes and designed a solution in the form of a competitive national Rarita team. This solution includes not only the players within the team but also describes the implementation plan and the various economic impacts. Several risks have also been considered and while the provided data was very raw, the necessary assumptions were made when reaching conclusions or applying models. Through our analysis the chosen team is anticipated to bring a great positive impact to the Raritan economy under the right guidance and further monitoring.
 
-<p align="center">
-  <img 
-    src="https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Thank%20You.gif"
-  >
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Thank%20You.gif)
+
 
 --- 
 
