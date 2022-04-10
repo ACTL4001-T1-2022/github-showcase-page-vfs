@@ -302,7 +302,7 @@ The overall team wage is 260,930,000∂ and it is entirely homegrown, avoiding b
 
 ### 2. Funding plan (Revenue and Player Salary)  ###
 
-#### Sources of Revenue ####
+<ins> Sources of Revenue </ins>
 
 VFS Actuarial Consulting has summarised the main sources of revenue for Rarita’s National Team: 
 * Broadcasting Revenue  
@@ -313,7 +313,7 @@ VFS Actuarial Consulting has summarised the main sources of revenue for Rarita�
 * Prize Pool of FSA League 
 * Loaning players 
 
-#### Revenue and Profit Projections ####
+<ins> Revenue and Profit Projections </ins>
 
 The projected revenue, expenses, profit, and salary values are shown in the graph below:
 
