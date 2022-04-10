@@ -21,17 +21,17 @@ The definition of "competitive" involves:
 ## Data Sources
 The data sources used consist of the three provided excel files containing data on: 
 
-*Shooting, passing, defense and goalkeeping statistics for individual players. 
+* Shooting, passing, defense and goalkeeping statistics for individual players. 
 
-*Tournament results for both 2020 and 2021. 
+* Tournament results for both 2020 and 2021. 
 
-*Salary data for players in both 2020 and 2021. 
+* Salary data for players in both 2020 and 2021. 
 
-*Various Raritan economic data. 
+* Various Raritan economic data. 
 
-*2022 Revenue and Expense data from football-soccer. 
+* 2022 Revenue and Expense data from football-soccer. 
 
-*2022 attendance and social media data. 
+* 2022 attendance and social media data. 
 
 ## Data Limitations
 
