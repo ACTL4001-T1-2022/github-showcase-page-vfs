@@ -288,9 +288,26 @@ The probability of a team beating another is then determined by the p-value corr
 
 
 
-
-
 ## Implementation Plan ##
+
+Our implementation plan for the Rarita team involves 3 main steps: 
+1. Team implementation into FSA league. 
+2. Funding team with sources of revenue. 
+3. Key metric monitoring team at mid-season break and at end of season. 
+
+### Implementation Timeline ###
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Timeline_2022.JPG)
+
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Timeline_2023.JPG)
+
+
+### 1. Team implementation into FSA league ###
+
+The chosen Rarita Football Team (with substitute players) are shown below: 
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Players.JPG)
+
+The overall team wage is 260,930,000∂ and it is entirely homegrown, avoiding borrowing expenses and currency risk. As a result, to ensure the team's success during the implementation process, general cohesion must be assessed to assure a high level of team synergy. 
+
 
 ### 1. Team implementation into FSA league ###
 
