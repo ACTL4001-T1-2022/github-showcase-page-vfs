@@ -29,6 +29,7 @@ The data sources used consist of the three provided excel files containing data 
 * 2022 attendance and social media data. 
 
 ## Data Limitations
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Data%20Limitations%20.png)
 
 
 ## Data Preparation
