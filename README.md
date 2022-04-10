@@ -33,7 +33,12 @@ The data sources used consist of the three provided excel files containing data 
 
 
 ## Data Preparation
+Through preliminary analysis of the football players dataset, two main issues were identified:  
 
+* Highly correlated variables. 
+* Large amounts of missing values. 
+* While the variables with < 25% missing values were imputed using predictive mean modelling, the columns with excessive amounts of missing values > 25% were removed. Furthermore, predictors that provided the same information as other predictors in the dataset were dropped. For instance, “Standard SoT%” and “Standard SoT” constitutes the same variable of shots on target. 
+* Correlation heat maps were then used to determine predictors with high correlations with one another. These variables were dropped from each dataset to avoid multicollinearity and provide a more accurate estimation of the coefficients when regressing. A subset of the best predictors for each skillset was combined to create a final player dataset. 
 
 ---
 
