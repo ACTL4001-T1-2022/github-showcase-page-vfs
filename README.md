@@ -23,17 +23,21 @@ The definition of "competitive" involves:
 ---
 
 ## Data Sources
-The data sources used consist of the three provided excel files containing data on: 
+The data sources used consist of the three provided excel files:
+* [Economic Data](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/2022-student-research-case-study-economic-data.xlsx)
+* [Football Data](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/2022-student-research-case-study-football-soccer-data.xlsx)
+* [Player Data](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/2022-student-research-case-study-player-data.xlsx)
 
+The excel files contain data on:
 * Shooting, passing, defense and goalkeeping statistics for individual players. 
 * Tournament results for both 2020 and 2021. 
 * Salary data for players in both 2020 and 2021. 
 * Various Raritan economic data. 
-* 2022 Revenue and Expense data from football-soccer. 
-* 2022 attendance and social media data. 
+* 2022 Revenue and expense data from football-soccer. 
+* 2022 Attendance and social media data. 
 
 ## Data Limitations
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Data%20Limitations%20.png)
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Data%20Limitations.png)
 
 
 ## Data Preparation
