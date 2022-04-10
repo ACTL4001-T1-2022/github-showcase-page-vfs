@@ -427,3 +427,67 @@ A successful football club will result in increased tourism-related GDP and over
     * Win and loss probability was based off a fitted normal distribution of estimation rank differences. 
     * Probability of drawing calculated by taking 10% of loss probability. 
     * Each team goes head-to-head once per league season. 
+
+---
+## Risk and Risk Mitigation
+
+### Risk Heat Map
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Risk%20Heat%20Map.JPG)
+
+As seen in the risk heat map above, building a competitive national team with the goal of having a
+favourable economic impact on the country entails several financial and non-financial risks that have an
+indirect impact on Rarita's economy, politics, and reputation. 
+
+## Financial Risks
+
+### Exchange Rate Risk
+If the value of Doubloons (∂) increases, it becomes more expensive for tourists to visit causing less demand
+for tourism in Rarita. Additionally, significant changes in exchange rate can lead to termination of
+investments as it becomes unprofitable.
+
+**Mitigation:** Reduce the risk by hedging against the Raritan currency. 
+
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Sensitivity%20Analysis.JPG)
+
+**Figure 12** quantifies the effects of exchange rate changes on 10% of player loan revenue. If the value of
+Doubloons (∂) increases or decreases in the optimistic and pessimistic case, there is a potential gain or loss
+of approximately €300,000 or (€272,000). 
+
+### Market Risk
+The football market may perform poorly due to the shifting trends of consumers. Reduced interestsin soccer
+will directly lead to a decrease in tourism and investments for Rarita, negatively impacting economic
+activity and growth.
+
+**Mitigation:** Reduce the risk through active advertisement of the team and positive media outlet. Carefully
+monitor consumer interests within soccer.
+
+## Non-Financial Risks
+### Operational Risk:
+As soccer is a contact sport, injuries and accidents are always a possibility, resulting in poor performance.
+Poor performances can damage Rarita's popularity resulting in reduced viewership and attendance.
+
+**Mitigation:** Employ physiotherapists, expert coaches, and trainers to physically condition athletes,
+lowering the risk of injury and poor performance. Monitor player performance and performance statistics,
+altering the squad as needed to maximise competitiveness.
+
+### Sensitivity Impact of Player Injuries & Accidents
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Operational%20Risk%20sensitivity%20analysis.JPG)
+
+**Figure 13** shows the extensive damage caused by injuries and accidents to the team’s ability to win
+championships. In the pessimistic case, the mean value drops by 6 championships, illustrating the effect on
+team performance. Again, this likely results in economic losses and a lack of fan interest causing decreased
+tourism and investment. 
+
+### Pandemic Outbreak:
+On multiple fronts, health issues are a serious concern. Players will not be allowed to compete in the FSA
+tournament due to COVID-19 regulations. Restrictions on spectators and overseas travel will also be
+reinstated, depending on the severity of the outbreak. This can potentially stunt the positive effects of
+Rarita’s team.
+
+**Mitigation:** Enforce vaccination requirements and ensure outbreaks are closely monitored and controlled.
+Maintain social distancing rules at physical venues. 
+
+
+
+
+
