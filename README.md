@@ -52,16 +52,24 @@ The columns with < 25% missing values were imputed using predictive mean modelli
 Correlation heat maps were then used to determine predictors with high correlations with one another. These variables were dropped from each dataset to avoid multicollinearity and provide a more accurate estimation of the coefficients when regressing. A subset of the best predictors for each skillset was combined to create a final player dataset. 
 
 ### Shooting Correlation Plot
-![](Shooting%20Correlation%20Plot.png)
+<p align="center">
+  <img src="Shooting%20Correlation%20Plot.png">
+</p>
 
 ### Passing Correlation Plot
-![](Passing%20Correlation%20Plot.png)
+<p align="center">
+  <img src="Passing%20Correlation%20Plot.png">
+</p>
 
 ### Defending Correlation Plot
-![](Defending%20Correlation%20Plot.png)
+<p align="center">
+  <img src="Defending%20Correlation%20Plot.png">
+</p>
 
 ### Goalkeeping Correlation Plot
-![](Goalkeeping%20Correlation%20Plot.png)
+<p align="center">
+  <img src="Goalkeeping%20Correlation%20Plot.png">
+</p>
 
 ---
 
@@ -137,9 +145,9 @@ Now that the competitive team has been chosen, our implementation plan for the R
 
 The chosen Rarita Football Team (with substitute players) are shown below: 
 
-![](Players.JPG)
-
-
+<p align="center">
+  <img src="Players.JPG">
+</p>
 
 The overall team wage is 260,930,000∂ and it is entirely homegrown, avoiding borrowing expenses and currency risk. As a result, to ensure the team's success during the implementation process, general cohesion must be assessed to ensure a high level of team synergy. 
 
@@ -159,13 +167,18 @@ VFS Actuarial Consulting has summarised the main sources of revenue for Rarita�
 
 The projected revenue, expenses, profit, and salary values are shown in the graph below:
 
-![](Rarita%20Financials.png)
+<p align="center">
+  <img src="Rarita%20Financials.png">
+</p>
 
 Rarita must ensure that sufficient private cash is supplied to the team salary, as shown in the Total Profit and Total Salaries estimate. Sponsorships, loaning players, merchandise, and leveraging the exposure obtained through adopting this squad are all possible sources of funding. 
 
 ### Usage of Revenue
 
-![](Revenue%20Usage.png)
+<p align="center">
+  <img src="Revenue%20Usage.png">
+</p>
+
 
 Rarita should use their revenue wisely to ensure a bright future for football rookies entering the league, such as: 
 * Funding developmental programs and grants for successful rookies in local clubs  
@@ -250,7 +263,9 @@ investments as it becomes unprofitable.
 
 **Mitigation:** Reduce the risk by hedging against the Raritan currency. 
 
-![](Exchange%20Rate%20Sensitivity.png)
+<p align="center">
+  <img src="Exchange%20Rate%20Sensitivity.png">
+</p>
 
 The table above quantifies the effects of exchange rate changes on 10% of player loan revenue. If the value of
 Doubloons (∂) increases or decreases in the optimistic and pessimistic case, there is a potential gain or loss
@@ -275,7 +290,9 @@ altering the squad as needed to maximise competitiveness.
 
 ### Sensitivity Impact of Player Injuries & Accidents
 
-![](Operational%20Risk%20Sensitivity.png)
+<p align="center">
+  <img src="Operational%20Risk%20Sensitivity.png">
+</p>
 
 The table above shows the extensive damage caused by injuries and accidents to the team’s ability to win
 championships. In the pessimistic case, the mean value drops by 6 championships, illustrating the effect on
@@ -316,8 +333,9 @@ Throughout the entire project several assumptions were made including the follow
 
 Therefore it is clear that through the project we identified the problem provided to us by Hammessi Bayes and designed a solution in the form of a competitive national Rarita team. This solution includes not only the players within the team but also describes the implementation plan and the various economic impacts. Several risks have also been considered and while the provided data was very raw, the necessary assumptions were made when reaching conclusions or applying models. Through our analysis the chosen team is anticipated to bring a great positive impact to the Raritan economy under the right guidance and further monitoring.
 
-![](Thank%20You.gif)
-
+<p align="center">
+  <img src="Thank%20You.gif">
+</p>
 
 --- 
 
