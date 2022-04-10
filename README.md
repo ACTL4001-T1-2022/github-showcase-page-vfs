@@ -1,4 +1,4 @@
-# 2022 SOA Research Case Study: Rarita FSA League Team
+# 2022 SOA Research Case Study: Rarita FSA League Team yes
 
 By Team VFS: Adam Moon, Cameron Ning, Ishaan Pandey, Tejaswi Netrapalli and Wesley Guan
 
