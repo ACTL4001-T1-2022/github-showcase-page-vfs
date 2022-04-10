@@ -317,6 +317,7 @@ Extending out from economics, the success of the Raritan football team will have
 
 ## Implementation Plan ##
 
+
 Our implementation plan for the Rarita team involves 3 main steps: 
 1. Team implementation into FSA league. 
 2. Funding team with sources of revenue. 
