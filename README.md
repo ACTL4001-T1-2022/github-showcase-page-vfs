@@ -3,9 +3,10 @@
 By Team VFS: Adam Moon, Cameron Ning, Ishaan Pandey, Tejaswi Netrapalli and Wesley Guan
 
 ---
+<p align="center">
+  <img src="footballgif.gif">
+</p>
 
-![](footballgif.gif)
-  
 ---
 
 ## Project Summary
