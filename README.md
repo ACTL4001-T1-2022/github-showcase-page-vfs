@@ -342,15 +342,6 @@ The chosen Rarita Football Team (with substitute players) are shown below:
 
 The overall team wage is 260,930,000∂ and it is entirely homegrown, avoiding borrowing expenses and currency risk. As a result, to ensure the team's success during the implementation process, general cohesion must be assessed to assure a high level of team synergy. 
 
-
-### 1. Team implementation into FSA league ###
-
-The chosen Rarita Football Team (with substitute players) are shown below: 
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Players.JPG)
-
-The overall team wage is 260,930,000∂ and it is entirely homegrown, avoiding borrowing expenses and currency risk. As a result, to ensure the team's success during the implementation process, general cohesion must be assessed to assure a high level of team synergy. 
-
-
 ### 2. Funding plan (Revenue and Player Salary)  ###
 
 <ins> Sources of Revenue </ins>
