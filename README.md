@@ -25,9 +25,9 @@ The definition of "competitive" involves:
 
 ## Data Sources
 The data sources used consist of the three provided excel files:
-* [Economic Data](2022-student-research-case-study-economic-data.xlsx)
-* [Football Data](2022-student-research-case-study-football-soccer-data.xlsx)
-* [Player Data](2022-student-research-case-study-player-data.xlsx)
+* [Economic Data](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/raw/main/2022-student-research-case-study-economic-data.xlsx)
+* [Football Data](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/raw/main/2022-student-research-case-study-football-soccer-data.xlsx)
+* [Player Data](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/raw/main/2022-student-research-case-study-player-data.xlsx)
 
 The excel files contain data on:
 * Shooting, passing, defense and goalkeeping statistics for individual players. 
