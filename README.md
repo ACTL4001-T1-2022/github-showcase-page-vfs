@@ -91,7 +91,34 @@ The probability of a team beating another is then determined by the p-value corr
 
 ---
 ## Economic Impact
+The provided economic data was used to forecast the revenues and expenses for the next 10 years. This involved estimating: 
+* Population growth rate as the average growth rate from 2011-2020 of 0.44%. 
+* Total revenue per capita as the average growth rate from 2016-2020 of 8% which increases to 9% in 2025 to account for the growing popularity of the team resulting in higher attendance and online viewership. 
+* Total expense per capita as the average growth rate from 2016-2020 of 6% which increases to 7% to account for increased staffing for tournaments and other costs. 2 
 
+The average growth rate calculation excluded the following outliers: 
+* Significant decrease in 2020 likely due to a systematic factor as almost all nations experienced negative growth that year. 
+* Unexplained increase in 2017-2018.  
+
+### Forecasts for Population, Total Revenue, Total Expenses and Profit
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Goalkeepers%20Models.png)
+
+## Impact on GDP and Economic Indices 
+Intuitively, high performing teams should result in a snowballing effect for attendance and online viewership. However, this relationship is too difficult to model due to the lack of data and mismatched time frames – attendance and social media data is given for 2022 whereas revenue and expenses needed to be forecasted from 2020. We can conclude that our recommended football team is likely to positively impact GDP due to the high long-term profits generated. Overall, the team’s success will raise Rarita’s global visibility resulting in more opportunities for investments and tourism. This directly causes: 
+* Employment levels to increase (e.g., more sport fields and stadiums constructed to accommodate for the increasing popularity of football).  
+* Increased staffing to assist the team handle higher online viewership and optimising team training. 
+* Fluctuations in inflation and interest rates as Rarita’s economy develops however this is heavily reliant on government policies regarding cash rate management. 
+
+## Non-economic Impacts and Rarita Provinces 
+Extending out from economics, the success of the Raritan football team will have a huge effect in the nation building process for Rarita. These effects include: 
+* Creating a sense of national identity, which can bridge the financial and social gap between provinces. This is particularly important for West Rarita who has: 
+  * One of the poorest economies – consistently ranking in the bottom five of GDP per capita. 
+  * Less than half of East Rarita’s Gross National Income (GNI) per capita. 
+  * Lowest Raritan household saving rates and healthcare expenditure. 
+* Football players serving as role models for Raritans, inspiring people to participate in sports, whether professionally or recreationally. This is especially essential for younger Raritans, as athletics have been shown to have a significant impact on preventing juvenile criminality, which is good for both society and the economy in terms of promoting long-term growth. 
+* Excess funds to for building infrastructure in rural or poorer areas within Rarita.  
+* Rising healthcare spending as the government's budget grows 
+* Rising household savings rates due to Rarita's improved economic prospects.
 
 
 
