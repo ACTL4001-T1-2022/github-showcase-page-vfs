@@ -4,6 +4,10 @@ By Team VFS: Adam Moon, Cameron Ning, Ishaan Pandey, Tejaswi Netrapalli and Wesl
 
 ---
 
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/footballgif.gif)
+
+---
+
 ## Project Summary
 
 This page outlines the plan and analysis performed to build a "competitive" football club that will play in the FSA League. Our team compared various supervised and unsupervised predictive modelling techniques to construct a team of 23 Rarita players based on an estimated nation rank metric. In order to determine the team's competitiveness, simulations of the league results for the next ten years were forecasted. The effects of the team's performance were then translated into various economic impacts and risks. 
