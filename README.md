@@ -4,7 +4,7 @@ By Team VFS: Adam Moon, Cameron Ning, Ishaan Pandey, Tejaswi Netrapalli and Wesl
 
 ---
 
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/footballgif.gif)
+![](footballgif.gif)
   
 ---
 
@@ -37,7 +37,7 @@ The excel files contain data on:
 * 2022 Attendance and social media data. 
 
 ## Data Limitations
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Data%20Limitations.png)
+![](Data%20Limitations.png)
 
 
 ## Data Preparation
@@ -51,16 +51,16 @@ The columns with < 25% missing values were imputed using predictive mean modelli
 Correlation heat maps were then used to determine predictors with high correlations with one another. These variables were dropped from each dataset to avoid multicollinearity and provide a more accurate estimation of the coefficients when regressing. A subset of the best predictors for each skillset was combined to create a final player dataset. 
 
 ### Shooting Correlation Plot
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Shooting%20Correlation%20Plot.png)
+![](Shooting%20Correlation%20Plot.png)
 
 ### Passing Correlation Plot
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Passing%20Correlation%20Plot.png)
+![](Passing%20Correlation%20Plot.png)
 
 ### Defending Correlation Plot
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Defending%20Correlation%20Plot.png)
+![](Defending%20Correlation%20Plot.png)
 
 ### Goalkeeping Correlation Plot
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Goalkeeping%20Correlation%20Plot.png)
+![](Goalkeeping%20Correlation%20Plot.png)
 
 ---
 
@@ -87,16 +87,16 @@ The supervised and unsupervised learning techniques used include:
 The evaluation metrics used include the R-squared, mean squared error, root mean squared error and mean absolute error statistics. These statistics were calculated using the test subset formed earlier in the model fitting process.
 
 ### Forward Model
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Forwards%20Models.png)
+![](Forwards%20Models.png)
 
 ### Midfielder Model
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Midfielders%20Models.png)
+![](Midfielders%20Models.png)
 
 ### Defender Model
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Defenders%20Models.png)
+![](Defenders%20Models.png)
 
 ### Goalkeeper Model
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Goalkeepers%20Models.png)
+![](Goalkeepers%20Models.png)
 
 We want the highest R-squared value and the lowest error for our chosen models. Therefore, the best models for the forward, midfielder, defender and goalkeeper positions are Boosting, Random Forests, Bagging and Boosting respectively. 
 
@@ -128,15 +128,15 @@ Now that the competitive team has been chosen, our implementation plan for the R
 
 ## Implementation Timeline 
 
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Timeline_2022.JPG)
+![](Timeline_2022.JPG)
 
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Timeline_2023.JPG)
+![](Timeline_2023.JPG)
 
 ## 1. Team implementation into FSA league
 
 The chosen Rarita Football Team (with substitute players) are shown below: 
 
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Players.JPG)
+![](Players.JPG)
 
 
 
@@ -158,13 +158,13 @@ VFS Actuarial Consulting has summarised the main sources of revenue for Rarita�
 
 The projected revenue, expenses, profit, and salary values are shown in the graph below:
 
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Rarita%20Financials.png)
+![](Rarita%20Financials.png)
 
 Rarita must ensure that sufficient private cash is supplied to the team salary, as shown in the Total Profit and Total Salaries estimate. Sponsorships, loaning players, merchandise, and leveraging the exposure obtained through adopting this squad are all possible sources of funding. 
 
 ### Usage of Revenue
 
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Revenue%20Usage.png)
+![](Revenue%20Usage.png)
 
 Rarita should use their revenue wisely to ensure a bright future for football rookies entering the league, such as: 
 * Funding developmental programs and grants for successful rookies in local clubs  
@@ -186,7 +186,7 @@ The general performance of the Rarita team in the league must be monitored twice
 
 By exploring the variable importance plots for the 4 main positions modelled: Forwards (FW), Midfielders (MF), Defenders (DF) and Goalkeepers (GK), a competent player can be explained through their statistics over the league. The key metrics for each position are summarised in the table below.
 
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Key%20Metrics.png)
+![](Key%20Metrics.png)
 
 These figures should be compared to those of higher-ranked teams to identify areas for improvement. Alternatively, by analysing crucial statistics and their qualitative impact on their squad, fresh players can be sought out at the conclusion of the year. Rarita will be able to work on their weaknesses during the off-season, ensuring long-term success and a good likelihood of winning a title. 
 
@@ -209,7 +209,7 @@ The average growth rate calculation excluded the following outliers:
 * Unexplained increase in 2017-2018.  
 
 ### Forecasts for Population, Total Revenue, Total Expenses and Profit
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Economic%20Impact%20Table.png)
+![](Economic%20Impact%20Table.png)
 
 ## Impact on GDP and Economic Indices 
 Intuitively, high performing teams should result in a snowballing effect for attendance and online viewership. However, this relationship is too difficult to model due to the lack of data and mismatched time frames – attendance and social media data is given for 2022 whereas revenue and expenses needed to be forecasted from 2020. We can conclude that our recommended football team is likely to positively impact GDP due to the high long-term profits generated. Overall, the team’s success will raise Rarita’s global visibility resulting in more opportunities for investments and tourism. This directly causes: 
@@ -234,7 +234,7 @@ Extending out from economics, the success of the Raritan football team will have
 Now that the economic impacts have been addressed, to ensure the successful implementation of the team we identified the key risks involved and provided mitigation strategies.
 
 ### Risk Heat Map
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Risk%20Matrix.png)
+![](Risk%20Matrix.png)
 
 As seen in the risk heat map above, building a competitive national team with the goal of having a
 favourable economic impact on the country entails several financial and non-financial risks that have an
@@ -249,7 +249,7 @@ investments as it becomes unprofitable.
 
 **Mitigation:** Reduce the risk by hedging against the Raritan currency. 
 
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Exchange%20Rate%20Sensitivity.png)
+![](Exchange%20Rate%20Sensitivity.png)
 
 The table above quantifies the effects of exchange rate changes on 10% of player loan revenue. If the value of
 Doubloons (∂) increases or decreases in the optimistic and pessimistic case, there is a potential gain or loss
@@ -274,7 +274,7 @@ altering the squad as needed to maximise competitiveness.
 
 ### Sensitivity Impact of Player Injuries & Accidents
 
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Operational%20Risk%20Sensitivity.png)
+![](Operational%20Risk%20Sensitivity.png)
 
 The table above shows the extensive damage caused by injuries and accidents to the team’s ability to win
 championships. In the pessimistic case, the mean value drops by 6 championships, illustrating the effect on
@@ -315,7 +315,7 @@ Throughout the entire project several assumptions were made including the follow
 
 Therefore it is clear that through the project we identified the problem provided to us by Hammessi Bayes and designed a solution in the form of a competitive national Rarita team. This solution includes not only the players within the team but also describes the implementation plan and the various economic impacts. Several risks have also been considered and while the provided data was very raw, the necessary assumptions were made when reaching conclusions or applying models. Through our analysis the chosen team is anticipated to bring a great positive impact to the Raritan economy under the right guidance and further monitoring.
 
-![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Thank%20You.gif)
+![](Thank%20You.gif)
 
 
 --- 
