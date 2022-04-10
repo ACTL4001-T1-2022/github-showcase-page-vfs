@@ -119,7 +119,7 @@ Monte Carlo simulations of the league are used to calculate the probability rang
 
 In order to perform the simulations we require the probability of a team beating another. This is based off the differences in the average estimated nation ranks for the two teams. A preliminary analysis of the differences between the average estimated nation ranks for each combination of teams indicate that it is normally distributed. Kolmogorov-Smirnov and Anderson Darling Goodness-Of-Fit tests were performed using a significance level of 5% which further supported the fitting of the normal distribution.
 
-> The results of the KS and AD tests can be found [here](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Difference%20Data%20GOF%20Tests.png).
+> The results of the KS and AD tests can be found [here](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/raw/main/Difference%20Data%20GOF%20Tests.png).
 
 The probability of a team beating another is then determined by the p-value corresponding to the difference. After extensive analysis and research, the drawing probability was chosen to be 10% of the losing probability taken equally from the winning and losing probabilities. While the results do not account for external factors such as the team improving or gaining experience over time, the results of the simulations indicate that:
 
