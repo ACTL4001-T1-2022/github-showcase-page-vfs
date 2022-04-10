@@ -292,6 +292,77 @@ The probability of a team beating another is then determined by the p-value corr
 
 
 
+### 1. Team implementation into FSA league ###
+
+The chosen Rarita Football Team (with substitute players) are shown below: 
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Players.JPG)
+
+The overall team wage is 260,930,000∂ and it is entirely homegrown, avoiding borrowing expenses and currency risk. As a result, to ensure the team's success during the implementation process, general cohesion must be assessed to assure a high level of team synergy. 
+
+
+### 2. Funding plan (Revenue and Player Salary)  ###
+
+#### Sources of Revenue ####
+
+VFS Actuarial Consulting has summarised the main sources of revenue for Rarita’s National Team: 
+* Broadcasting Revenue  
+* Commercial Revenue 
+* Matchday Revenue  
+* Sponsorships 
+* Merchandise 
+* Prize Pool of FSA League 
+* Loaning players 
+
+#### Revenue and Profit Projections ####
+
+The projected revenue, expenses, profit, and salary values are shown in the graph below:
+
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Rarita_Financials.JPG)
+
+Rarita must ensure that sufficient private cash is supplied to the team salary, as shown in the Total Profit and Total Salaries estimate. Sponsorships, loaning players, merchandise, and leveraging the exposure obtained through adopting this squad are all possible sources of funding. 
+
+#### Usage of Revenue ####
+
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Revenue_Usage.JPG)
+
+Rarita should use their revenue wisely to ensure a bright future for football rookies entering the league, such as: 
+* Funding developmental programs and grants for successful rookies in local clubs  
+* Researching optimized fitness training to ensure that players are technically skilled and fit giving them an edge over competitors 
+* Ensuring players and staff are well compensated through higher salary payouts  
+* Investing into the future of Rarita through capital expenditure (e.g., building stadiums) 
+
+
+### 3. Monitoring and key metrics ###
+
+Over the next 10 years, Rarita’s team must be monitored to ensure the greatest chance of international success in the FSA league. Our monitoring plan involves observing 2 main stages: 
+
+* Comparison of Rarita player statistics with rest of FSA League 
+* Financials and Popularity  
+
+ 
+#### a) Comparison of Rarita Players ####  
+
+The general performance of the Rarita team in the league must be monitored twice a year: once during the mid-season break and again at the end of the FSA season. 
+
+The Win-Loss ratio and the team's ultimate ranking are the two most important critical indicators in assessing overall season performance. However, to establish a good training program, it is necessary to understand the performance of specific players. 
+
+<ins> Establishing a successful football player profile </ins>
+
+By exploring the variable importance plots for the 4 main positions modelled: Forwards (FW), Midfielders (MF), Defenders (DF) and Goalkeepers (GK), a competent player can be explained through their statistics over the league.  
+
+The key metrics for each position is summarised in the table below: 
+
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Key_Metrics.JPG)
+
+These figures should be compared to those of higher-ranked teams to identify areas for improvement. Alternatively, by analysing crucial statistics and their qualitative impact on their squad, fresh players can be sought out at the conclusion of the year. Rarita will be able to work on their weaknesses during the off-season, ensuring long-term success and a good likelihood of winning a title. 
+
+ 
+
+#### b) Financials ####
+
+Attendance, GDP, and income are all financial variables that should be tracked on a yearly basis. 
+
+A successful football club will result in increased tourism-related GDP and overall economic growth. The football team's GDP growth rate and revenue should be evaluated to verify that it is performing its economic purpose, and if it isn't, the team's focus should be modified. This might include things like marketing and consulting with the FSA to conduct more home matches for a bigger matchday and merch revenue to help the economy.
 
 
 
