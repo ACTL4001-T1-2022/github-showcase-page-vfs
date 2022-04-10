@@ -311,7 +311,7 @@ Throughout the entire project several assumptions were made including the follow
 
 Therefore it is clear that through the project we identified the problem provided to us by Hammessi Bayes and designed a solution in the form of a competitive national Rarita team. This solution includes not only the players within the team but also describes the implementation plan and the various economic impacts. Several risks have also been considered and while the provided data was very raw, the necessary assumptions were made when reaching conclusions or applying models. Through our analysis the chosen team is anticipated to bring a great positive impact to the Raritan economy under the right guidance and further monitoring.
 
-
+![](https://github.com/ACTL4001-T1-2022/github-showcase-page-vfs/blob/main/Thank%20You.gif
 
 --- 
 
